@@ -35,18 +35,17 @@ These programs were built to understand low-level system behavior and algorithms
 
 ## 🚀 How to Run
 
-### 🐍 Python Files
 Run any Python script using:
 ```bash
 python filename.py
 
-### C Files
+
 Run any C script using:
 ```bash
 gcc Synchronized_Processes.c -o sync
 ./sync
 
-### C++ Files
+
 Run any C++ script using:
 ```bash
 g++ producer.cpp -o producer
