@@ -35,7 +35,7 @@ These programs were built to understand low-level system behavior and algorithms
 
 ## 🚀 How to Run
 
-Run any Python script using:
+
 ```bash
 python filename.py
 
